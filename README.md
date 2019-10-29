@@ -12,7 +12,7 @@ GitHub action that adds a lightweight git tag to the current workflow commit.
 ## Example usage
 
 ```yaml
-uses: hole19/git-tag-action@v1
+uses: hole19/git-tag-action@master
 env:
   TAG: v1.2.3
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
