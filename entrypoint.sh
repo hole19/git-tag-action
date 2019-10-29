@@ -42,7 +42,7 @@ else
 
   {
     "ref": "refs/tags/$TAG",
-    "sha": "$GITHUB_SHA",
+    "sha": "$GITHUB_SHA"
   }
 EOF
 fi
