@@ -4,3 +4,6 @@ author: 'Hole19'
 runs:
   using: 'docker'
   image: 'Dockerfile'
+branding:
+  icon: 'tag'
+  color: 'blue'
